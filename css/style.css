@@ -3339,16 +3339,16 @@ a.no-lines:hover {
       margin-bottom: 2vw;
   }
   .hea {
-    font-size: 11vw;
-    margin-top: -5vw;
-    margin-left: 26vw;
-    color: #f9f9f9;
+      font-size: 11vw;
+      margin-top: -5vw;
+      margin-left: 28vw;
+      color: #f9f9f9;
   }
   .frog {
-    margin-top: -38vw;
-    margin-left: 27vw;
-    position: relative;
-    z-index: 2;
+      margin-top: -38vw;
+      margin-left: 30vw;
+      position: relative;
+      z-index: 2;
   }
   .water9 {
       z-index: 1;
